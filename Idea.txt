@@ -1,0 +1,13 @@
+====== DOCUMENT EDITOR ======
+Current feature support:
+   1> Text
+   2> Image
+
+Future Features :
+    1> Tables
+    2> Vedios
+    3> Fonts
+    4> New Lines
+    etc...
+
+Here I am going to Use Bottom Up Approch
